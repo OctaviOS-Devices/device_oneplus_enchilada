@@ -50,9 +50,9 @@ TARGET_VENDOR_DEVICE_NAME := OnePlus6
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=OnePlus6 \
     PRODUCT_NAME=OnePlus6 \
-    PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210605.005 7349499 release-keys" \
+    PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210805.001.A1 7474174 release-keys" \
 
-BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys"
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.fingerprint=google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys
+    ro.build.fingerprint=google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys
